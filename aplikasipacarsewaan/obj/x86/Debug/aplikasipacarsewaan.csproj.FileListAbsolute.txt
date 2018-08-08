@@ -1,0 +1,41 @@
+c:\users\rizaarfiqi\documents\visual studio 2010\Projects\aplikasipacarsewaan\aplikasipacarsewaan\bin\Debug\aplikasipacarsewaan.exe
+c:\users\rizaarfiqi\documents\visual studio 2010\Projects\aplikasipacarsewaan\aplikasipacarsewaan\bin\Debug\aplikasipacarsewaan.pdb
+c:\users\rizaarfiqi\documents\visual studio 2010\Projects\aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\rizaarfiqi\documents\visual studio 2010\Projects\aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\aplikasipacarsewaan.Form1.resources
+c:\users\rizaarfiqi\documents\visual studio 2010\Projects\aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\aplikasipacarsewaan.Properties.Resources.resources
+c:\users\rizaarfiqi\documents\visual studio 2010\Projects\aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\rizaarfiqi\documents\visual studio 2010\Projects\aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\rizaarfiqi\documents\visual studio 2010\Projects\aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\aplikasipacarsewaan.exe
+c:\users\rizaarfiqi\documents\visual studio 2010\Projects\aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\aplikasipacarsewaan.pdb
+C:\Users\LABKOM\Documents\Visual Studio 2015\Projects\aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\aplikasipacarsewaan.exe
+C:\Users\LABKOM\Documents\Visual Studio 2015\Projects\aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\aplikasipacarsewaan.csprojResolveAssemblyReference.cache
+C:\Users\LABKOM\Documents\Visual Studio 2015\Projects\aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\aplikasipacarsewaan.Form1.resources
+C:\Users\LABKOM\Documents\Visual Studio 2015\Projects\aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\aplikasipacarsewaan.Properties.Resources.resources
+C:\Users\LABKOM\Documents\Visual Studio 2015\Projects\aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\aplikasipacarsewaan.csproj.GenerateResource.Cache
+C:\Users\LABKOM\Documents\Visual Studio 2015\Projects\aplikasipacarsewaan\aplikasipacarsewaan\bin\Debug\aplikasipacarsewaan.exe
+C:\Users\LABKOM\Documents\Visual Studio 2015\Projects\aplikasipacarsewaan\aplikasipacarsewaan\bin\Debug\aplikasipacarsewaan.pdb
+C:\Users\LABKOM\Documents\Visual Studio 2015\Projects\aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\aplikasipacarsewaan.pdb
+D:\aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\aplikasipacarsewaan.exe
+D:\aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\aplikasipacarsewaan.pdb
+D:\aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\aplikasipacarsewaan.csprojResolveAssemblyReference.cache
+D:\aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\aplikasipacarsewaan.Form1.resources
+D:\aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\aplikasipacarsewaan.Properties.Resources.resources
+D:\aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\aplikasipacarsewaan.csproj.GenerateResource.Cache
+D:\aplikasipacarsewaan\aplikasipacarsewaan\bin\Debug\aplikasipacarsewaan.exe
+D:\aplikasipacarsewaan\aplikasipacarsewaan\bin\Debug\aplikasipacarsewaan.pdb
+D:\ \aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\aplikasipacarsewaan.exe
+D:\ \aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\aplikasipacarsewaan.pdb
+G:\ \aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\aplikasipacarsewaan.exe
+G:\ \aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\aplikasipacarsewaan.pdb
+D:\ \Pemograman Komputer 2\aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\aplikasipacarsewaan.exe
+D:\ \Pemograman Komputer 2\aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\aplikasipacarsewaan.pdb
+D:\ \Pemograman Komputer 2\aplikasipacarsewaan\aplikasipacarsewaan\bin\Debug\aplikasipacarsewaan.exe
+D:\ \Pemograman Komputer 2\aplikasipacarsewaan\aplikasipacarsewaan\bin\Debug\aplikasipacarsewaan.pdb
+D:\ \Pemograman Komputer 2\aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\aplikasipacarsewaan.csprojResolveAssemblyReference.cache
+D:\ \Pemograman Komputer 2\aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\aplikasipacarsewaan.Form1.resources
+D:\ \Pemograman Komputer 2\aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\aplikasipacarsewaan.Properties.Resources.resources
+D:\ \Pemograman Komputer 2\aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\aplikasipacarsewaan.csproj.GenerateResource.Cache
+G:\ \Pemograman Komputer 2\aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\aplikasipacarsewaan.exe
+G:\ \Pemograman Komputer 2\aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\aplikasipacarsewaan.pdb
+D:\FLASHDISK\ \Pemograman Komputer 2\aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\aplikasipacarsewaan.exe
+D:\FLASHDISK\ \Pemograman Komputer 2\aplikasipacarsewaan\aplikasipacarsewaan\obj\x86\Debug\aplikasipacarsewaan.pdb
